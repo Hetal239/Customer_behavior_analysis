@@ -129,7 +129,7 @@ The cleaned data and analytical results were used to build an interactive **Powe
 
 ### Dashboard Preview
 
-![Customer Behavior Analysis Dashboard](Dashboard Image.jpeg)
+![Customer Behavior Analysis Dashboard](Dashboard.jpeg)
 
 
 ## 💡 Key Analysis & Results
