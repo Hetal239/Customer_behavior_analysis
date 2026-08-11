@@ -1,5 +1,4 @@
 # Customer Behavior Analysis
-# Customer Behavior Analysis
 
 ## 📊 Project Overview
 
@@ -130,9 +129,7 @@ The cleaned data and analytical results were used to build an interactive **Powe
 
 ### Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
-
-![Customer Behavior Analysis Dashboard](images/dashboard.png)
+![Customer Behavior Analysis Dashboard](Dashboard Image.jpeg)
 
 
 ## 💡 Key Analysis & Results
